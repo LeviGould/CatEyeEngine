@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio cache/options directory
+.vs/
+/CatEyeEngine/x64/Debug
+/x64/Debug
+*.user
+*.filters
+*.vcxproj
+*.sln
